@@ -45,7 +45,7 @@ Python | Java | SQL | React | Tailwind CSS | Git | GitHub | AWS Basics
 ## 📫 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/akashpamba47/  
-📧 Email: your-email-here  
+📧 Email: saiakash103@gmail.com  
 
 ---
 
